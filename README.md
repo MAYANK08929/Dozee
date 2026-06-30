@@ -2,7 +2,7 @@
 
 A single-page expense dashboard that converts 20 sample expenses across 10 currencies into USD and summarises them for a monthly board report. It shows category totals, an overall total, top merchants, a sortable/filterable expense table, an add-expense form, and a "what-if" EUR rate slider.
 
-**Live URL:** `<paste your Netlify / Vercel / GitHub Pages URL here>`
+**Live URL:** https://mayank08929.github.io/Dozee/
 
 ## Run it locally
 
